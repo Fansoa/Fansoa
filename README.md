@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+👋 Welcome to my GitHub profile! I'm Fansoa, a passionate front-end developer with a knack for crafting dynamic and user-friendly web applications. My journey in the world of coding has led me to specialize in JavaScript, where I thrive on the versatility and power it offers.
+
+💻 I love diving into exciting projects using cutting-edge frameworks like React and Next.js, leveraging their capabilities to build scalable, efficient, and beautifully designed interfaces. Whether it's creating responsive layouts, implementing state management, or optimizing performance, I enjoy every aspect of the development process.
+
+🔧 Additionally, I have a keen interest in automation and testing, and I frequently utilize tools like Webdriver.io to ensure the reliability and robustness of my applications. Continuous improvement and learning are at the core of my approach, as I believe in staying updated with the latest technologies and best practices in the ever-evolving landscape of web development.
+
+🌟 Let's collaborate, innovate, and build amazing experiences together! Feel free to explore my repositories and reach out for any questions, feedback, or exciting opportunities.
+
 <a href="https://app.daily.dev/francoisverin"><img src="https://api.daily.dev/devcards/v2/cDiJH5XxjDkK6wrASRow7.png?type=default&r=8k3" width="356" alt="François Verin's Dev Card"/></a>
 
 <!--
