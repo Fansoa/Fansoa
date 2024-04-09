@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/francoisverin"><img src="https://api.daily.dev/devcards/v2/cDiJH5XxjDkK6wrASRow7.png?type=default&r=8k3" width="356" alt="François Verin's Dev Card"/></a>
+
 <!--
 **Fansoa/Fansoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
