@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Welcome to my GitHub profile! I'm Fansoa, a passionate front-end developer with a knack for crafting dynamic and user-friendly web applications. My journey in the world of coding has led me to specialize in JavaScript, where I thrive on the versatility and power it offers.
 
 💻 I love diving into exciting projects using cutting-edge frameworks like React and Next.js, leveraging their capabilities to build scalable, efficient, and beautifully designed interfaces. Whether it's creating responsive layouts, implementing state management, or optimizing performance, I enjoy every aspect of the development process.
