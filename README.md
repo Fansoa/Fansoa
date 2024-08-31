@@ -18,7 +18,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-francoisverin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francoisverin/)](https://www.linkedin.com/in/francoisverin/)
 [![Static Badge](https://img.shields.io/badge/fverin.contactpro@gmail.com-%23555?logo=gmail)](mailto:fverin.contactpro@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Portfolio-%23555?logo=netlify)](https://francois-verin.netlify.app/)
-[![Static Badge](https://img.shields.io/badge/Fansoa-%23555?logo=github)](https://github.com/fansoa)
+[![Static Badge](https://img.shields.io/badge/Fansoa-%23555?logo=github)](https://github.com/Fansoa)
 
 ## 🔭 I’m currently working on
 - Otonom - platform for the neo-autonomist
