@@ -21,7 +21,7 @@
 [![Static Badge](https://img.shields.io/badge/Fansoa-%23555?logo=github)](https://github.com/Fansoa)
 
 ## 🔭 I’m currently working on
-- [Otonom - platform for the neo-autonomist](https://github.com/users/Fansoa/projects/1)
+- [Otonom - Platform for the neo-autonomist](https://github.com/users/Fansoa/projects/1)
 - [My-Makeup - Collaboration in Open Source project - Migration to App Router (Next)](https://github.com/orgs/For-Hives/projects/2)
 - [Pauline Pluchart - Showcase site
 ](https://github.com/users/Fansoa/projects/2/views/1)
